@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    text-align: center;
+    margin: 65px 0px ;
+}
+nav{
+    text-align: center;
+    background-color: lightskyblue;
+    color: #fff;
+
+}
+nav ul{
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    font-size: 20px;
+    padding: 25px 20px ;
+}
+#container{
+    text-align: center;
+    margin-top: 60px;
+}
+#container img{
+    width: 100%;
+    padding: 30px 0px;
+}
+.sticky{
+    position: fixed;
+    top: 0px;
+    width: 100%;
+
+}
+a:hover{
+    color: yellow;
+}
+h1:hover{
+    color: brown;
+}
